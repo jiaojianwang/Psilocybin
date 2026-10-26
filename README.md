@@ -16,7 +16,7 @@ The following packages are imported directly by `Psilocybin_snRNAseq_analysis.R`
 | biomaRt | 2.60.1 |
 | CellChat | 2.2.0 |
 | clusterProfiler | 4.12.6 |
-| CytoTRACE | Not installed; 0.3.3 |
+| CytoTRACE | 0.3.3 |
 | decontX | 1.2.0 |
 | DoubletFinder | 2.0.4 |
 | dplyr | 1.1.4 |
